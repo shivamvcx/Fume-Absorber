@@ -15,3 +15,7 @@ A premium Fume absorber for your work desk. It absorber all harmful chemical and
 - 2*18650 battery for long runtime
 - Chagrning option for longer lifetime
 - Oled Display for battery percentage
+
+## Credit - @shabaz
+
+I used @shabaz 's [blog](https://community.element14.com/technologies/open-source-hardware/b/blog/posts/building-a-low-cost-solder-fume-extractor-part-1) from 2017 to learn how fume absorbers work, after that all the work is my original.
