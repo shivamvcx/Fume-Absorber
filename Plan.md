@@ -8,15 +8,11 @@ My plan is inspired by [this blog](https://community.element14.com/technologies/
 
 ` Dust Filter ---> HEPA Filter ---> Activated Carbon Filter ---> Dual Fan sucking air ---> Clean air exit `
 
-## Power Structure
+## Complete System Structure
 
 ```
-TP4056 (Charger)
-   ↓
-2×18650 (Batteries)
-   ↓
-On/Off Switch
-   ├─→ MT3608 (set to 12V) → Fans (+12V, GND)
-   │
-   └─→ MT3608 (set to 5V) → ESP32-WROOM (+5V, GND)
+USB-C → TP4056 → 18650 cells (1S2P) → Power Button → MT3608 #1 → Fan circuit (MOSFET + fan)
+                                                   → MT3608 #2 → ESP32 → OLED
+                                                                │
+                                                                └→ Encoder
 ```
