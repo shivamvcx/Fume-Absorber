@@ -10,6 +10,13 @@ My plan is inspired by [this blog](https://community.element14.com/technologies/
 
 ## Power Structure
 
-` TP4056 -> 2*18650 -> On/Off Switch -> 1st MT3608 set to 12v -> Fans +ve and -ve
-                            ↓
-                            2nd MT3608 set to 5v -> ESP32-WROOM
+```
+TP4056 (Charger)
+   ↓
+2×18650 (Batteries)
+   ↓
+On/Off Switch
+   ├─→ MT3608 (set to 12V) → Fans (+12V, GND)
+   │
+   └─→ MT3608 (set to 5V) → ESP32-WROOM (+5V, GND)
+```
