@@ -15,8 +15,11 @@ USB-C → TP4056 → 18650 cells (1S2P) → Power Button → #1 MT3608 12v → D
                                                    → #2 MT3608 5v → ESP32 → OLED
 ```
 
-### Further plan -
+## Structure
 
-After receving fund, i will start physically wiring each components and CAD work for fan holder, filter holder etc.
+- I'll seal fans side with MDF sheets so all bad fumes are forced to pass through all 3 filters
 
-> I havent started CAD work just for that i need exact measurment of components thats why i also added a good quality verneir caliper, mine is just a cheap $2 one which broke down recently.
+## Other
+
+- I have succcesfully made whole model in CAD with proper Type-C port
+- Reason for batteries to be in parallel because TP4056 cant charge two batteries in series due to low voltage output
