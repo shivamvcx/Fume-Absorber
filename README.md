@@ -1,6 +1,6 @@
 ﻿# Fume Absorber
 
-![banner](https://cdn.hackclub.com/01a11491-1ef7-720c-b3e1-17ae2b50922e/Schematic_Fume-Absorber_2026-10-07.png)
+![banner](https://cdn.hackclub.com/01a11495-eb0f-7567-b90d-6386b7f0cac2/Imp.png)
 
 ## Overview
 
