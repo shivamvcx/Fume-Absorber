@@ -1,20 +1,19 @@
-﻿Component Name,Quantity,Price (inr)
-Eduway MDF sheet 10*12,4,228
-Pre-Filter,1,331
-HEPA-Filter,1,256
-Activated Carbon filter,1,299
-Ambrane Type-c cable,1,179
-12v DC Fan,2,358
-SmartElex ESP32-WROOM,1,825
-MT3608 DC-DC Module,2,74
-18650 Li-ion Battery,2,310
-TP4056 Charging module,1,16
-0.96 oled display,1,165
-SPST rocker switch,1,25
-18650 2 cell holder,1,21
-Vero Board,2,82
-Wire packet,2,118
-Digital Vernier Caliper,1,2400
-M2 & M2.5 3D Printing assorted screw pack,1,1940
-NUMAKERS PETG Filament,1,850
-Total amt,26,             ~8500
+Component Name,Quantity,Price (INR),Price (USD),Link
+Eduway MDF sheet 10*12,4,228,2.37,https://www.amazon.in/gp/product/B09PLC82L1/ref=ox_sc_act_title_6?smid=A1WYWER0W24N8S&psc=1
+Pre-Filter,1,349,3.62,https://www.amazon.in/gp/product/B09LCHFM59/ref=ox_sc_act_title_4?smid=AWSE2FPBZFZ1F&psc=1
+HEPA-Filter,1,256,2.66,https://www.amazon.in/gp/product/B0D6Z2B894/ref=ox_sc_act_title_4?smid=A2SE7QPPEO44H5&psc=1
+Activated Carbon filter,1,449,4.66,https://www.amazon.in/gp/product/B0HC7X5L6Q/ref=ox_sc_act_title_3?smid=A1GZ79OSFSZVYH&psc=1
+12v DC Fan,2,358,3.72,https://robocraze.com/products/8025-12-v-2-2mm-2-wire-fan?variant=40194208530585
+SmartElex ESP32-WROOM,1,825,8.56,https://robocraze.com/products/smartelex-esp32-wroom-32d-n8-wifi-ble-devkit-development-board?variant=48103018954976
+MT3608 DC-DC Module,2,84,0.87,https://robocraze.com/products/smartelex-esp32-wroom-32d-n8-wifi-ble-devkit-development-board?variant=48103018954976
+18650 Li-ion Battery,2,320,3.32,https://robocraze.com/products/mt3608-dc-dc-boost-module-2v-24v?variant=40192693371033
+TP4056 Charging module,1,20,0.21,https://robocraze.com/products/tp4056-battery-charger-c-type-module-with-protection-1?variant=46170796261600
+0.96 oled display,1,165,1.71,https://robocraze.com/products/0-91-inch-blue-oled-display-module?variant=40194383413401
+18650 2 cell holder,1,50,0.52,https://robocraze.com/products/18650-dual-battery-holder-with-cover-and-on-off-switch?variant=46868487766240
+Vero Board,2,82,0.85,https://robocraze.com/products/vero-board-3-x4?variant=40192561873049
+Wire packet,2,138,1.43,https://robocraze.com/products/single-stranded-hook-up-wires-1m-each-5-colors?variant=40193905590425
+Digital Vernier Caliper,1,2400,24.91,https://www.amazon.in/gp/product/B0HBBJY363/ref=ox_sc_act_title_2?smid=AJ6SIZC8YQDZX&psc=1
+M2 & M3 3D Printing assorted screw pack,1,1940,20.13,https://onlyscrews.in/products/m2-m2-5-allen-socket-head12-9-assorted-screw-pack-drone-screw-pack
+NUMAKERS PETG Filament,1,850,8.82,https://www.amazon.in/gp/product/B0BFKLC9D3/ref=ox_sc_act_title_1?smid=A3MCB9NUD1CPCV&psc=1
+Total amt,24,8514,88.37 (~90),
+,,,,

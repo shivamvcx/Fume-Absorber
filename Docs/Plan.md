@@ -1,6 +1,6 @@
 ## Plan -
 
-> I have designed my project and added this project on my website and saved it as a demo url.
+> I have designed my project and added this project on my website.
 
 My plan is inspired by [this blog](https://community.element14.com/technologies/open-source-hardware/b/blog/posts/building-a-low-cost-solder-fume-extractor-part-1).
 
@@ -11,9 +11,14 @@ My plan is inspired by [this blog](https://community.element14.com/technologies/
 ## Circuit structure
 
 ```
-USB-C → TP4056 → 18650 cells (1S2P) → Power Button → #1 MT3608 12v → Dual Fan
-                                                   → #2 MT3608 5v → ESP32 → OLED
+USB-C → MRB045 → Witty Fox 11.1V Pack → Fuse 3A → ON/OFF Switch → Dual Fan (12V, parallel)
+                                                                → LM2596 5V → ESP32 DevKit (VIN) → OLED
+                                                                → 30K/10K divider → ESP32 IO34 (battery level)
 ```
+
+## Circuit Diagram
+
+![image](https://cdn.hackclub.com/01a11490-c32c-7656-a82a-5bedc38ba6c5/Schematic_Fume-Absorber_2026-10-07.png)
 
 ## Structure
 
