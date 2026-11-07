@@ -1,6 +1,6 @@
 ﻿# Fume Absorber
 
-![banner](https://cdn.hackclub.com/01a11495-eb0f-7567-b90d-6386b7f0cac2/Imp.png)
+![banner](https://cdn.hackclub.com/01a1b576-42ec-7650-9e5b-b9cfbceac36e/paste-1794045773298.png)
 
 ## Overview
 
